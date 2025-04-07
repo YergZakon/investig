@@ -1,0 +1,11 @@
+streamlit
+pydub
+openai
+python-docx
+python-dotenv
+ffmpeg-python
+PyPDF2
+requests
+pandas
+numpy
+matplotlib
